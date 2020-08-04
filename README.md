@@ -4,7 +4,7 @@ Notice: all the code present in this repository does not represent a final versi
 
 
 **If you publish any work which uses the code stored in this project, please cite the following creators:** <br/>
-Sergio Abascià, Gianluca Azzollini, Alberto Carlo Maria Mancino
+Sergio Abascià, Gianluca Azzollini
 
 **Developers** <br/>
 Sergio Abascià <br/>
