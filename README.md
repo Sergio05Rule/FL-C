@@ -10,7 +10,6 @@ Sergio Abascià, Gianluca Azzollini, Alberto Carlo Maria Mancino
 Sergio Abascià <br/>
 Gianluca Azzollini
 
-
 **Contacts** <br/>
 We are happy to help you with any question. Please contact us on our mails: <br/>
 sergio05.abascia@gmail.com <br/>
